@@ -1,4 +1,4 @@
-# EDS_TUPM253692_Pineda
+# EDS_3692_Pineda
 ## AGR-04: Micro-Climate Volatility Detection and Statistical Analysis in IoT-Based Greenhouse Systems
 
 **Student:** Pineda, Chester Rios  
